@@ -1,5 +1,5 @@
 # Токен бота, полученный от @BotFather
-BOT_TOKEN = "8551671107:AAHe6Jsbs3G3xrEJlxgvZ3t53814-rpYcCk"
+BOT_TOKEN = "8596447755:AAFq7yCgIlOcnr2W7t1ANu1jdvX9e0fIfXs"
 
 # API ключ RuCaptcha
 RUCAPTCHA_API_KEY = "dcfc7131e39d1c8671156feaaedbf1f6"
